@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Zied Achour 👋
 
-<!--
-**achourzied72-wq/achourzied72-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineering Student | Python & Machine Learning
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student passionate about programming, data science, and artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building my skills in Python and machine learning, exploring data analysis, and working toward developing practical AI-powered solutions.
+
+## 🚀 Currently Learning
+
+- 🐍 Python programming
+- 📊 NumPy and data analysis
+- 🤖 Machine learning fundamentals
+- 📈 Data preprocessing and feature scaling
+- 🗃️ SQL and working with data
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, SQL
+- **Data Science:** NumPy, Pandas
+- **Machine Learning:** Scikit-learn
+- **Tools:** Git, GitHub, Jupyter Notebook, VS Code
+
+## 🎯 Goals
+
+- Build practical Python and machine learning projects
+- Strengthen my foundations in data science
+- Learn by building, experimenting, and documenting my work
+- Contribute to interesting open-source projects
+
+## 📂 Featured Projects
+
+*More projects coming soon! I'm working on building my portfolio one project at a time.*
+
+## 🤝 Connect With Me
+
+- GitHub: [@achourzied72-wq](https://github.com/achourzied72-wq)
+
+---
+
+⭐ *Learning every day. Building step by step.*
