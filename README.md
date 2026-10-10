@@ -28,13 +28,15 @@ I'm currently building my skills in Python and machine learning, exploring data 
 - Learn by building, experimenting, and documenting my work
 - Contribute to interesting open-source projects
 
-## 📂 Featured Projects
-
-*More projects coming soon! I'm working on building my portfolio one project at a time.*
-
 ## 🤝 Connect With Me
 
-- GitHub: [@achourzied72-wq](https://github.com/achourzied72-wq)
+- 💼 **LinkedIn:** [Zied Achour](linkedin.com/in/zied-achour-574338329)
+- 📧 **Email:** achourzied72@gmail.com
+- 🐙 **GitHub:** [@achourzied72-wq](https://github.com/achourzied72-wq)
+
+---
+
+⭐ *Always learning, always building.*
 
 ---
 
